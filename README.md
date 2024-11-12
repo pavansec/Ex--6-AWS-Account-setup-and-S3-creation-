@@ -5,8 +5,8 @@ In this lab, we are going to be introduced to one of the famous Cloud Service pr
 
 
 ```
-Name : George Paul Tony .C
-Reg. No : 212222040043
+Name : Pavan Kumar A B
+Reg. No : 212222040113
 ```
 
 ## Objectives
